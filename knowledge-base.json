@@ -1,0 +1,30 @@
+[
+  {
+    "id": "company",
+    "category": "overview",
+    "content": "SurfSync Infotech Private Limited provides software and digital solutions. Public location: Noida, Uttar Pradesh, India.",
+    "status": "verified_from_supplied_kb",
+    "last_verified": "2026-10-14"
+  },
+  {
+    "id": "services",
+    "category": "services",
+    "content": "AI/automation, web/custom software, mobile, ecommerce/CMS, cloud/DevOps, enterprise IT and business messaging.",
+    "status": "verified_from_supplied_kb",
+    "last_verified": "2026-10-14"
+  },
+  {
+    "id": "pricing",
+    "category": "pricing",
+    "content": "No verified public general price list. Estimate follows discovery.",
+    "status": "verified_from_supplied_kb",
+    "last_verified": "2026-10-14"
+  },
+  {
+    "id": "contact",
+    "category": "contact",
+    "content": "info@surfsyncinfotech.in | +91 9429694356 | https://surfsyncinfotech.in/",
+    "status": "verified_from_supplied_kb",
+    "last_verified": "2026-10-14"
+  }
+]

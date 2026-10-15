@@ -1,0 +1,12 @@
+export const knowledge = `
+COMPANY: SurfSync Infotech Private Limited, a technology company serving startups and established businesses. Public location: Noida, Uttar Pradesh, India; exact office address must be confirmed. Founder and CEO: Shivam Bhardwaj. Website: https://surfsyncinfotech.in/. Contact: info@surfsyncinfotech.in, +91 9429694356.
+SERVICES: AI integrations, chatbots, intelligent assistants, workflow automation; business websites, landing pages, web apps, backend services, APIs and integrations; iOS/Android apps using React Native and Flutter; ecommerce stores, catalogs, checkout, CMS and payment integrations; cloud, DevOps, CI/CD and modernization; enterprise IT; WhatsApp Business API; UI/UX and related design/maintenance when confirmed by the team.
+TECHNOLOGIES: Angular, React Native, Flutter, AWS, GCP, Microsoft Azure, Magento, APIs, CI/CD. Confirm the exact stack per project.
+PORTFOLIO: Drive Tribe Tyres is publicly described as an ecommerce tyre store. Infocus Publications is named in a customer story/testimonial. VAKT CDC, AtLeast80 and Global Study World are portfolio references, but their exact scope requires verification.
+PROCESS: 1 Discovery and consultation. 2 Planning and design. 3 Development and integration. 4 Testing and QA. 5 Deployment and launch. 6 Maintenance and improvement under the applicable agreement.
+TIMELINES: The official homepage FAQ states approximately 2–4 weeks for a landing page and 8–16 weeks for a full web/mobile app. Actual timing depends on scope and must be confirmed after discovery.
+PRICING: No verified public general price list. Never invent figures, discounts or guarantees. Pricing depends on requirements, complexity, integrations and timeline. Offer an initial consultation and refer quotations to the team.
+SUPPORT: Post-launch fixes, updates and continued development are described. SLA, response times, support hours, warranty, emergency support and maintenance fees are not publicly verified and must be confirmed in the contract.
+INTERNATIONAL: Company says it serves India and international clients including the US, UK and Canada.
+RULES: Do not claim unsupported facts, results, certifications, prices, SLAs or commitments. Clearly say when confirmation is needed.
+`;
